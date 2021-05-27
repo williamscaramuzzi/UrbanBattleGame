@@ -4,4 +4,4 @@
 ----------
 Canon game created with OpenGL and C++ to implement matrix calculations and a little bit of shaders.
 
-![gif]](./baturbanagif.gif)
+![gif]](https://raw.githubusercontent.com/williamscaramuzzi/UrbanBattleGame/master/baturbanagif.gif)
