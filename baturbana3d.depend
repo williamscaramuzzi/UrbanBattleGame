@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620780393 source:c:\users\willi\desktop\baturbana3d\baturbana3d\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<unistd.h>
+
+1522183854 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
